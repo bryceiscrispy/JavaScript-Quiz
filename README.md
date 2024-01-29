@@ -1,2 +1,3 @@
 This is a quiz i made with javascript
-somebody wants me to be far more detailed than what is required for someone who is literate enough to clearly see what it is.
+there are some some kinks I had some trouble figuring out like how the timer goes on after you complete the quiz and how the start quiz button stays the whole time.
+also am yet to figure out how to add functionality to the text box to add your name and save the score.
